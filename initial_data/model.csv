@@ -1,0 +1,1009 @@
+brand,name,slug
+abarth,500,500
+abarth,Grande Punto,grande-punto
+abarth,Punto Evo,punto-evo
+abarth,500c,500c
+abarth,695,695
+abarth,Punto,punto
+alfa-romeo,155,155
+alfa-romeo,156,156
+alfa-romeo,159,159
+alfa-romeo,164,164
+alfa-romeo,145,145
+alfa-romeo,147,147
+alfa-romeo,146,146
+alfa-romeo,Gtv,gtv
+alfa-romeo,Spider,spider
+alfa-romeo,166,166
+alfa-romeo,Gt,gt
+alfa-romeo,Crosswagon,crosswagon
+alfa-romeo,Brera,brera
+alfa-romeo,90,90
+alfa-romeo,75,75
+alfa-romeo,33,33
+alfa-romeo,Giulietta,giulietta
+alfa-romeo,Sprint,sprint
+alfa-romeo,Mito,mito
+aro,Expander,expander
+aro,10,10
+aro,24,24
+aro,Dacia,dacia
+asia,Rocsta,rocsta
+asia-motors,Rocsta,rocsta
+aston-martin,Db7,db7
+aston-martin,V8,v8
+aston-martin,Db9,db9
+aston-martin,Vanquish,vanquish
+aston-martin,V8 Vantage,v8-vantage
+aston-martin,Vantage,vantage
+aston-martin,Dbs,dbs
+aston-martin,Volante,volante
+aston-martin,Virage,virage
+aston-martin,Vantage V8,vantage-v8
+aston-martin,Vantage V12,vantage-v12
+aston-martin,Rapide,rapide
+aston-martin,Cygnet,cygnet
+audi,80,80
+audi,A4,a4
+audi,A6,a6
+audi,S6,s6
+audi,Coupe,coupe
+audi,S2,s2
+audi,Rs2,rs2
+audi,A8,a8
+audi,Cabriolet,cabriolet
+audi,S8,s8
+audi,A3,a3
+audi,S4,s4
+audi,Tt,tt
+audi,S3,s3
+audi,Allroad Quattro,allroad-quattro
+audi,Rs4,rs4
+audi,A2,a2
+audi,Rs6,rs6
+audi,Q7,q7
+audi,R8,r8
+audi,A5,a5
+audi,S5,s5
+audi,V8,v8
+audi,200,200
+audi,100,100
+audi,90,90
+audi,Tts,tts
+audi,Q5,q5
+audi,A4 Allroad Quattro,a4-allroad-quattro
+audi,Tt Rs,tt-rs
+audi,Rs5,rs5
+audi,A1,a1
+audi,A7,a7
+audi,Rs3,rs3
+audi,Q3,q3
+audi,A6 Allroad Quattro,a6-allroad-quattro
+audi,S7,s7
+audi,Sq5,sq5
+austin,Mini,mini
+austin,Montego,montego
+austin,Maestro,maestro
+austin,Metro,metro
+austin,Mini Moke,mini-moke
+auverland,Diesel,diesel
+bentley,Brooklands,brooklands
+bentley,Turbo,turbo
+bentley,Continental,continental
+bentley,Azure,azure
+bentley,Arnage,arnage
+bentley,Continental Gt,continental-gt
+bentley,Continental Flying Spur,continental-flying-spur
+bentley,Turbo R,turbo-r
+bentley,Mulsanne,mulsanne
+bentley,Eight,eight
+bentley,Continental Gtc,continental-gtc
+bentley,Continental Supersports,continental-supersports
+bertone,Freeclimber Diesel,freeclimber-diesel
+bmw,Serie 3,serie-3
+bmw,Serie 5,serie-5
+bmw,Compact,compact
+bmw,Serie 7,serie-7
+bmw,Serie 8,serie-8
+bmw,Z3,z3
+bmw,Z4,z4
+bmw,Z8,z8
+bmw,X5,x5
+bmw,Serie 6,serie-6
+bmw,X3,x3
+bmw,Serie 1,serie-1
+bmw,Z1,z1
+bmw,X6,x6
+bmw,X1,x1
+cadillac,Seville,seville
+cadillac,Sts,sts
+cadillac,El Dorado,el-dorado
+cadillac,Cts,cts
+cadillac,Xlr,xlr
+cadillac,Srx,srx
+cadillac,Escalade,escalade
+cadillac,Bls,bls
+chevrolet,Corvette,corvette
+chevrolet,Blazer,blazer
+chevrolet,Astro,astro
+chevrolet,Nubira,nubira
+chevrolet,Evanda,evanda
+chevrolet,Trans Sport,trans-sport
+chevrolet,Camaro,camaro
+chevrolet,Matiz,matiz
+chevrolet,Alero,alero
+chevrolet,Tahoe,tahoe
+chevrolet,Tacuma,tacuma
+chevrolet,Trailblazer,trailblazer
+chevrolet,Kalos,kalos
+chevrolet,Aveo,aveo
+chevrolet,Lacetti,lacetti
+chevrolet,Epica,epica
+chevrolet,Captiva,captiva
+chevrolet,Hhr,hhr
+chevrolet,Cruze,cruze
+chevrolet,Spark,spark
+chevrolet,Orlando,orlando
+chevrolet,Volt,volt
+chevrolet,Malibu,malibu
+chrysler,Vision,vision
+chrysler,300m,300m
+chrysler,Grand Voyager,grand-voyager
+chrysler,Viper,viper
+chrysler,Neon,neon
+chrysler,Voyager,voyager
+chrysler,Stratus,stratus
+chrysler,Sebring,sebring
+chrysler,Sebring 200c,sebring-200c
+chrysler,New Yorker,new-yorker
+chrysler,Pt Cruiser,pt-cruiser
+chrysler,Crossfire,crossfire
+chrysler,300c,300c
+chrysler,Le Baron,le-baron
+chrysler,Saratoga,saratoga
+citroen,Xantia,xantia
+citroen,Xm,xm
+citroen,Ax,ax
+citroen,Zx,zx
+citroen,Evasion,evasion
+citroen,C8,c8
+citroen,Saxo,saxo
+citroen,C2,c2
+citroen,Xsara,xsara
+citroen,C4,c4
+citroen,Xsara Picasso,xsara-picasso
+citroen,C5,c5
+citroen,C3,c3
+citroen,C3 Pluriel,c3-pluriel
+citroen,C1,c1
+citroen,C6,c6
+citroen,Grand C4 Picasso,grand-c4-picasso
+citroen,C4 Picasso,c4-picasso
+citroen,Ccrosser,ccrosser
+citroen,C15,c15
+citroen,Jumper,jumper
+citroen,Jumpy,jumpy
+citroen,Berlingo,berlingo
+citroen,Bx,bx
+citroen,C25,c25
+citroen,Cx,cx
+citroen,Gsa,gsa
+citroen,Visa,visa
+citroen,Lna,lna
+citroen,2cv,2cv
+citroen,Nemo,nemo
+citroen,C4 Sedan,c4-sedan
+citroen,Berlingo First,berlingo-first
+citroen,C3 Picasso,c3-picasso
+citroen,Ds3,ds3
+citroen,Czero,czero
+citroen,Ds4,ds4
+citroen,Ds5,ds5
+citroen,C4 Aircross,c4-aircross
+citroen,Celysee,celysee
+corvette,Corvette,corvette
+dacia,Contac,contac
+dacia,Logan,logan
+dacia,Sandero,sandero
+dacia,Duster,duster
+dacia,Lodgy,lodgy
+daewoo,Nexia,nexia
+daewoo,Aranos,aranos
+daewoo,Lanos,lanos
+daewoo,Nubira,nubira
+daewoo,Compact,compact
+daewoo,Nubira Compact,nubira-compact
+daewoo,Leganza,leganza
+daewoo,Evanda,evanda
+daewoo,Matiz,matiz
+daewoo,Tacuma,tacuma
+daewoo,Kalos,kalos
+daewoo,Lacetti,lacetti
+daihatsu,Applause,applause
+daihatsu,Charade,charade
+daihatsu,Rocky,rocky
+daihatsu,Feroza,feroza
+daihatsu,Terios,terios
+daihatsu,Sirion,sirion
+daimler,Serie Xj,serie-xj
+daimler,Xj,xj
+daimler,Double Six,double-six
+daimler,Six,six
+daimler,Series Iii,series-iii
+dodge,Viper,viper
+dodge,Caliber,caliber
+dodge,Nitro,nitro
+dodge,Avenger,avenger
+dodge,Journey,journey
+ferrari,F355,f355
+ferrari,360,360
+ferrari,F430,f430
+ferrari,F512 M,f512-m
+ferrari,550 Maranello,550-maranello
+ferrari,575m Maranello,575m-maranello
+ferrari,599,599
+ferrari,456,456
+ferrari,456m,456m
+ferrari,612,612
+ferrari,F50,f50
+ferrari,Enzo,enzo
+ferrari,Superamerica,superamerica
+ferrari,430,430
+ferrari,348,348
+ferrari,Testarossa,testarossa
+ferrari,512,512
+ferrari,355,355
+ferrari,F40,f40
+ferrari,412,412
+ferrari,Mondial,mondial
+ferrari,328,328
+ferrari,California,california
+ferrari,458,458
+ferrari,Ff,ff
+fiat,Croma,croma
+fiat,Cinquecento,cinquecento
+fiat,Seicento,seicento
+fiat,Punto,punto
+fiat,Grande Punto,grande-punto
+fiat,Panda,panda
+fiat,Tipo,tipo
+fiat,Coupe,coupe
+fiat,Uno,uno
+fiat,Ulysse,ulysse
+fiat,Tempra,tempra
+fiat,Marea,marea
+fiat,Barchetta,barchetta
+fiat,Bravo,bravo
+fiat,Stilo,stilo
+fiat,Brava,brava
+fiat,Palio Weekend,palio-weekend
+fiat,600,600
+fiat,Multipla,multipla
+fiat,Idea,idea
+fiat,Sedici,sedici
+fiat,Linea,linea
+fiat,500,500
+fiat,Fiorino,fiorino
+fiat,Ducato,ducato
+fiat,Doblo Cargo,doblo-cargo
+fiat,Doblo,doblo
+fiat,Strada,strada
+fiat,Regata,regata
+fiat,Talento,talento
+fiat,Argenta,argenta
+fiat,Ritmo,ritmo
+fiat,Punto Classic,punto-classic
+fiat,Qubo,qubo
+fiat,Punto Evo,punto-evo
+fiat,500c,500c
+fiat,Freemont,freemont
+fiat,Panda Classic,panda-classic
+fiat,500l,500l
+ford,Maverick,maverick
+ford,Escort,escort
+ford,Focus,focus
+ford,Mondeo,mondeo
+ford,Scorpio,scorpio
+ford,Fiesta,fiesta
+ford,Probe,probe
+ford,Explorer,explorer
+ford,Galaxy,galaxy
+ford,Ka,ka
+ford,Puma,puma
+ford,Cougar,cougar
+ford,Focus Cmax,focus-cmax
+ford,Fusion,fusion
+ford,Streetka,streetka
+ford,Cmax,cmax
+ford,Smax,smax
+ford,Transit,transit
+ford,Courier,courier
+ford,Ranger,ranger
+ford,Sierra,sierra
+ford,Orion,orion
+ford,Pick Up,pick-up
+ford,Capri,capri
+ford,Granada,granada
+ford,Kuga,kuga
+ford,Grand Cmax,grand-cmax
+ford,Bmax,bmax
+ford,Tourneo Custom,tourneo-custom
+galloper,Exceed,exceed
+galloper,Santamo,santamo
+galloper,Super Exceed,super-exceed
+honda,Accord,accord
+honda,Civic,civic
+honda,Crx,crx
+honda,Prelude,prelude
+honda,Nsx,nsx
+honda,Legend,legend
+honda,Crv,crv
+honda,Hrv,hrv
+honda,Logo,logo
+honda,S2000,s2000
+honda,Stream,stream
+honda,Jazz,jazz
+honda,Frv,frv
+honda,Concerto,concerto
+honda,Insight,insight
+honda,Crz,crz
+hummer,H2,h2
+hummer,H3,h3
+hummer,H3t,h3t
+hyundai,Lantra,lantra
+hyundai,Sonata,sonata
+hyundai,Elantra,elantra
+hyundai,Accent,accent
+hyundai,Scoupe,scoupe
+hyundai,Coupe,coupe
+hyundai,Atos,atos
+hyundai,H1,h1
+hyundai,Atos Prime,atos-prime
+hyundai,Xg,xg
+hyundai,Trajet,trajet
+hyundai,Santa Fe,santa-fe
+hyundai,Terracan,terracan
+hyundai,Matrix,matrix
+hyundai,Getz,getz
+hyundai,Tucson,tucson
+hyundai,I30,i30
+hyundai,Pony,pony
+hyundai,Grandeur,grandeur
+hyundai,I10,i10
+hyundai,I800,i800
+hyundai,Sonata Fl,sonata-fl
+hyundai,Ix55,ix55
+hyundai,I20,i20
+hyundai,Ix35,ix35
+hyundai,Ix20,ix20
+hyundai,Genesis,genesis
+hyundai,I40,i40
+hyundai,Veloster,veloster
+infiniti,G,g
+infiniti,Ex,ex
+infiniti,Fx,fx
+infiniti,M,m
+innocenti,Elba,elba
+innocenti,Minitre,minitre
+isuzu,Trooper,trooper
+isuzu,Pick Up,pick-up
+isuzu,D Max,d-max
+isuzu,Rodeo,rodeo
+isuzu,Dmax,dmax
+isuzu,Trroper,trroper
+iveco,Daily,daily
+iveco,Massif,massif
+iveco-pegaso,Daily,daily
+iveco-pegaso,Duty,duty
+jaguar,Serie Xj,serie-xj
+jaguar,Serie Xk,serie-xk
+jaguar,Xj,xj
+jaguar,Stype,stype
+jaguar,Xf,xf
+jaguar,Xtype,xtype
+jeep,Wrangler,wrangler
+jeep,Cherokee,cherokee
+jeep,Grand Cherokee,grand-cherokee
+jeep,Commander,commander
+jeep,Compass,compass
+jeep,Wrangler Unlimited,wrangler-unlimited
+jeep,Patriot,patriot
+kia,Sportage,sportage
+kia,Sephia,sephia
+kia,Sephia Ii,sephia-ii
+kia,Pride,pride
+kia,Clarus,clarus
+kia,Shuma,shuma
+kia,Carnival,carnival
+kia,Joice,joice
+kia,Magentis,magentis
+kia,Carens,carens
+kia,Rio,rio
+kia,Cerato,cerato
+kia,Sorento,sorento
+kia,Opirus,opirus
+kia,Picanto,picanto
+kia,Ceed,ceed
+kia,Ceed Sporty Wagon,ceed-sporty-wagon
+kia,Proceed,proceed
+kia,K2500 Frontier,k2500-frontier
+kia,K2500,k2500
+kia,Soul,soul
+kia,Venga,venga
+kia,Optima,optima
+kia,Ceed Sportswagon,ceed-sportswagon
+lada,Samara,samara
+lada,Niva,niva
+lada,Sagona,sagona
+lada,Stawra 2110,stawra-2110
+lada,214,214
+lada,Kalina,kalina
+lada,Serie 2100,serie-2100
+lada,Priora,priora
+lamborghini,Gallardo,gallardo
+lamborghini,Murcielago,murcielago
+lamborghini,Aventador,aventador
+lancia,Delta,delta
+lancia,K,k
+lancia,Y10,y10
+lancia,Dedra,dedra
+lancia,Lybra,lybra
+lancia,Z,z
+lancia,Y,y
+lancia,Ypsilon,ypsilon
+lancia,Thesis,thesis
+lancia,Phedra,phedra
+lancia,Musa,musa
+lancia,Thema,thema
+lancia,Zeta,zeta
+lancia,Kappa,kappa
+lancia,Trevi,trevi
+lancia,Prisma,prisma
+lancia,A112,a112
+lancia,Ypsilon Elefantino,ypsilon-elefantino
+lancia,Voyager,voyager
+land-rover,Range Rover,range-rover
+land-rover,Defender,defender
+land-rover,Discovery,discovery
+land-rover,Freelander,freelander
+land-rover,Range Rover Sport,range-rover-sport
+land-rover,Discovery 4,discovery-4
+land-rover,Range Rover Evoque,range-rover-evoque
+ldv,Maxus,maxus
+lexus,Ls400,ls400
+lexus,Ls430,ls430
+lexus,Gs300,gs300
+lexus,Is200,is200
+lexus,Rx300,rx300
+lexus,Gs430,gs430
+lexus,Gs460,gs460
+lexus,Sc430,sc430
+lexus,Is300,is300
+lexus,Is250,is250
+lexus,Rx400h,rx400h
+lexus,Is220d,is220d
+lexus,Rx350,rx350
+lexus,Gs450h,gs450h
+lexus,Ls460,ls460
+lexus,Ls600h,ls600h
+lexus,Ls,ls
+lexus,Gs,gs
+lexus,Is,is
+lexus,Sc,sc
+lexus,Rx,rx
+lexus,Ct,ct
+lotus,Elise,elise
+lotus,Exige,exige
+mahindra,Bolero Pickup,bolero-pickup
+mahindra,Goa Pickup,goa-pickup
+mahindra,Goa,goa
+mahindra,Cj,cj
+mahindra,Pikup,pikup
+mahindra,Thar,thar
+maserati,Ghibli,ghibli
+maserati,Shamal,shamal
+maserati,Quattroporte,quattroporte
+maserati,3200 Gt,3200-gt
+maserati,Coupe,coupe
+maserati,Spyder,spyder
+maserati,Gransport,gransport
+maserati,Granturismo,granturismo
+maserati,430,430
+maserati,Biturbo,biturbo
+maserati,228,228
+maserati,224,224
+maserati,Grancabrio,grancabrio
+maybach,Maybach,maybach
+mazda,Xedos 6,xedos-6
+mazda,626,626
+mazda,121,121
+mazda,Xedos 9,xedos-9
+mazda,323,323
+mazda,Mx3,mx3
+mazda,Rx7,rx7
+mazda,Mx5,mx5
+mazda,Mazda3,mazda3
+mazda,Mpv,mpv
+mazda,Demio,demio
+mazda,Premacy,premacy
+mazda,Tribute,tribute
+mazda,Mazda6,mazda6
+mazda,Mazda2,mazda2
+mazda,Rx8,rx8
+mazda,Mazda5,mazda5
+mazda,Cx7,cx7
+mazda,Serie B,serie-b
+mazda,B2500,b2500
+mazda,Bt50,bt50
+mazda,Mx6,mx6
+mazda,929,929
+mazda,Cx5,cx5
+mercedes-benz,Clase C,clase-c
+mercedes-benz,Clase E,clase-e
+mercedes-benz,Clase Sl,clase-sl
+mercedes-benz,Clase S,clase-s
+mercedes-benz,Clase Cl,clase-cl
+mercedes-benz,Clase G,clase-g
+mercedes-benz,Clase Slk,clase-slk
+mercedes-benz,Clase V,clase-v
+mercedes-benz,Viano,viano
+mercedes-benz,Clase Clk,clase-clk
+mercedes-benz,Clase A,clase-a
+mercedes-benz,Clase M,clase-m
+mercedes-benz,Vaneo,vaneo
+mercedes-benz,Slklasse,slklasse
+mercedes-benz,Slr Mclaren,slr-mclaren
+mercedes-benz,Clase Cls,clase-cls
+mercedes-benz,Clase R,clase-r
+mercedes-benz,Clase Gl,clase-gl
+mercedes-benz,Clase B,clase-b
+mercedes-benz,100d,100d
+mercedes-benz,140d,140d
+mercedes-benz,180d,180d
+mercedes-benz,Sprinter,sprinter
+mercedes-benz,Vito,vito
+mercedes-benz,Transporter,transporter
+mercedes-benz,280,280
+mercedes-benz,220,220
+mercedes-benz,200,200
+mercedes-benz,190,190
+mercedes-benz,600,600
+mercedes-benz,400,400
+mercedes-benz,Clase Sl R129,clase-sl-r129
+mercedes-benz,300,300
+mercedes-benz,500,500
+mercedes-benz,420,420
+mercedes-benz,260,260
+mercedes-benz,230,230
+mercedes-benz,Clase Clc,clase-clc
+mercedes-benz,Clase Glk,clase-glk
+mercedes-benz,Sls Amg,sls-amg
+mg,Mgf,mgf
+mg,Tf,tf
+mg,Zr,zr
+mg,Zs,zs
+mg,Zt,zt
+mg,Ztt,ztt
+mg,Mini,mini
+mg,Countryman,countryman
+mg,Paceman,paceman
+mitsubishi,Montero,montero
+mitsubishi,Galant,galant
+mitsubishi,Colt,colt
+mitsubishi,Space Wagon,space-wagon
+mitsubishi,Space Runner,space-runner
+mitsubishi,Space Gear,space-gear
+mitsubishi,3000 Gt,3000-gt
+mitsubishi,Carisma,carisma
+mitsubishi,Eclipse,eclipse
+mitsubishi,Space Star,space-star
+mitsubishi,Montero Sport,montero-sport
+mitsubishi,Montero Io,montero-io
+mitsubishi,Outlander,outlander
+mitsubishi,Lancer,lancer
+mitsubishi,Grandis,grandis
+mitsubishi,L200,l200
+mitsubishi,Canter,canter
+mitsubishi,300 Gt,300-gt
+mitsubishi,Asx,asx
+mitsubishi,Imiev,imiev
+morgan,44,44
+morgan,Plus 8,plus-8
+morgan,Aero 8,aero-8
+morgan,V6,v6
+morgan,Roadster,roadster
+morgan,4,4
+morgan,Plus 4,plus-4
+nissan,Terrano Ii,terrano-ii
+nissan,Terrano,terrano
+nissan,Micra,micra
+nissan,Sunny,sunny
+nissan,Primera,primera
+nissan,Serena,serena
+nissan,Patrol,patrol
+nissan,Maxima Qx,maxima-qx
+nissan,200 Sx,200-sx
+nissan,300 Zx,300-zx
+nissan,Patrol Gr,patrol-gr
+nissan,100 Nx,100-nx
+nissan,Almera,almera
+nissan,Pathfinder,pathfinder
+nissan,Almera Tino,almera-tino
+nissan,Xtrail,xtrail
+nissan,350z,350z
+nissan,Murano,murano
+nissan,Note,note
+nissan,Qashqai,qashqai
+nissan,Tiida,tiida
+nissan,Vanette,vanette
+nissan,Trade,trade
+nissan,Vanette Cargo,vanette-cargo
+nissan,Pickup,pickup
+nissan,Navara,navara
+nissan,Cabstar E,cabstar-e
+nissan,Cabstar,cabstar
+nissan,Maxima,maxima
+nissan,Camion,camion
+nissan,Prairie,prairie
+nissan,Bluebird,bluebird
+nissan,Np300 Pick Up,np300-pick-up
+nissan,Qashqai2,qashqai2
+nissan,Pixo,pixo
+nissan,Gtr,gtr
+nissan,370z,370z
+nissan,Cube,cube
+nissan,Juke,juke
+nissan,Leaf,leaf
+nissan,Evalia,evalia
+opel,Astra,astra
+opel,Vectra,vectra
+opel,Calibra,calibra
+opel,Corsa,corsa
+opel,Omega,omega
+opel,Frontera,frontera
+opel,Tigra,tigra
+opel,Monterey,monterey
+opel,Sintra,sintra
+opel,Zafira,zafira
+opel,Agila,agila
+opel,Speedster,speedster
+opel,Signum,signum
+opel,Meriva,meriva
+opel,Antara,antara
+opel,Gt,gt
+opel,Combo,combo
+opel,Movano,movano
+opel,Vivaro,vivaro
+opel,Kadett,kadett
+opel,Monza,monza
+opel,Senator,senator
+opel,Rekord,rekord
+opel,Manta,manta
+opel,Ascona,ascona
+opel,Insignia,insignia
+opel,Zafira Tourer,zafira-tourer
+opel,Ampera,ampera
+opel,Mokka,mokka
+opel,Adam,adam
+peugeot,306,306
+peugeot,605,605
+peugeot,106,106
+peugeot,205,205
+peugeot,405,405
+peugeot,406,406
+peugeot,806,806
+peugeot,807,807
+peugeot,407,407
+peugeot,307,307
+peugeot,206,206
+peugeot,607,607
+peugeot,308,308
+peugeot,307 Sw,307-sw
+peugeot,206 Sw,206-sw
+peugeot,407 Sw,407-sw
+peugeot,1007,1007
+peugeot,107,107
+peugeot,207,207
+peugeot,4007,4007
+peugeot,Boxer,boxer
+peugeot,Partner,partner
+peugeot,J5,j5
+peugeot,604,604
+peugeot,505,505
+peugeot,309,309
+peugeot,Bipper,bipper
+peugeot,Partner Origin,partner-origin
+peugeot,3008,3008
+peugeot,5008,5008
+peugeot,Rcz,rcz
+peugeot,508,508
+peugeot,Ion,ion
+peugeot,208,208
+peugeot,4008,4008
+pontiac,Trans Sport,trans-sport
+pontiac,Firebird,firebird
+pontiac,Trans Am,trans-am
+porsche,911,911
+porsche,Boxster,boxster
+porsche,Cayenne,cayenne
+porsche,Carrera Gt,carrera-gt
+porsche,Cayman,cayman
+porsche,928,928
+porsche,968,968
+porsche,944,944
+porsche,924,924
+porsche,Panamera,panamera
+porsche,918,918
+renault,Megane,megane
+renault,Safrane,safrane
+renault,Laguna,laguna
+renault,Clio,clio
+renault,Twingo,twingo
+renault,Nevada,nevada
+renault,Espace,espace
+renault,Spider,spider
+renault,Scenic,scenic
+renault,Grand Espace,grand-espace
+renault,Avantime,avantime
+renault,Vel Satis,vel-satis
+renault,Grand Scenic,grand-scenic
+renault,Clio Campus,clio-campus
+renault,Modus,modus
+renault,Express,express
+renault,Trafic,trafic
+renault,Master,master
+renault,Kangoo,kangoo
+renault,Mascott,mascott
+renault,Master Propulsion,master-propulsion
+renault,Maxity,maxity
+renault,R19,r19
+renault,R25,r25
+renault,R5,r5
+renault,R21,r21
+renault,R4,r4
+renault,Alpine,alpine
+renault,Fuego,fuego
+renault,R18,r18
+renault,R11,r11
+renault,R9,r9
+renault,R6,r6
+renault,Grand Modus,grand-modus
+renault,Kangoo Combi,kangoo-combi
+renault,Koleos,koleos
+renault,Fluence,fluence
+renault,Wind,wind
+renault,Latitude,latitude
+renault,Grand Kangoo Combi,grand-kangoo-combi
+rolls-royce,Siver Dawn,siver-dawn
+rolls-royce,Silver Spur,silver-spur
+rolls-royce,Park Ward,park-ward
+rolls-royce,Silver Seraph,silver-seraph
+rolls-royce,Corniche,corniche
+rolls-royce,Phantom,phantom
+rolls-royce,Touring,touring
+rolls-royce,Silvier,silvier
+rover,800,800
+rover,600,600
+rover,100,100
+rover,200,200
+rover,Coupe,coupe
+rover,400,400
+rover,45,45
+rover,Cabriolet,cabriolet
+rover,25,25
+rover,Mini,mini
+rover,75,75
+rover,Streetwise,streetwise
+rover,Sd,sd
+saab,900,900
+saab,93,93
+saab,9000,9000
+saab,95,95
+saab,93x,93x
+saab,94x,94x
+santana,300,300
+santana,350,350
+santana,Anibal,anibal
+santana,Anibal Pick Up,anibal-pick-up
+seat,Ibiza,ibiza
+seat,Cordoba,cordoba
+seat,Toledo,toledo
+seat,Marbella,marbella
+seat,Alhambra,alhambra
+seat,Arosa,arosa
+seat,Leon,leon
+seat,Altea,altea
+seat,Altea Xl,altea-xl
+seat,Altea Freetrack,altea-freetrack
+seat,Terra,terra
+seat,Inca,inca
+seat,Malaga,malaga
+seat,Ronda,ronda
+seat,Exeo,exeo
+seat,Mii,mii
+skoda,Felicia,felicia
+skoda,Forman,forman
+skoda,Octavia,octavia
+skoda,Octavia Tour,octavia-tour
+skoda,Fabia,fabia
+skoda,Superb,superb
+skoda,Roomster,roomster
+skoda,Scout,scout
+skoda,Pickup,pickup
+skoda,Favorit,favorit
+skoda,130,130
+skoda,S,s
+skoda,Yeti,yeti
+skoda,Citigo,citigo
+skoda,Rapid,rapid
+smart,Smart,smart
+smart,Citycoupe,citycoupe
+smart,Fortwo,fortwo
+smart,Cabrio,cabrio
+smart,Crossblade,crossblade
+smart,Roadster,roadster
+smart,Forfour,forfour
+ssangyong,Korando,korando
+ssangyong,Family,family
+ssangyong,K4d,k4d
+ssangyong,Musso,musso
+ssangyong,Korando Kj,korando-kj
+ssangyong,Rexton,rexton
+ssangyong,Rexton Ii,rexton-ii
+ssangyong,Rodius,rodius
+ssangyong,Kyron,kyron
+ssangyong,Actyon,actyon
+ssangyong,Sports Pick Up,sports-pick-up
+ssangyong,Actyon Sports Pick Up,actyon-sports-pick-up
+ssangyong,Kodando,kodando
+subaru,Legacy,legacy
+subaru,Impreza,impreza
+subaru,Svx,svx
+subaru,Justy,justy
+subaru,Outback,outback
+subaru,Forester,forester
+subaru,G3x Justy,g3x-justy
+subaru,B9 Tribeca,b9-tribeca
+subaru,Xt,xt
+subaru,1800,1800
+subaru,Tribeca,tribeca
+subaru,Wrx Sti,wrx-sti
+subaru,Trezia,trezia
+subaru,Xv,xv
+subaru,Brz,brz
+suzuki,Maruti,maruti
+suzuki,Swift,swift
+suzuki,Vitara,vitara
+suzuki,Baleno,baleno
+suzuki,Samurai,samurai
+suzuki,Alto,alto
+suzuki,Wagon R,wagon-r
+suzuki,Jimny,jimny
+suzuki,Grand Vitara,grand-vitara
+suzuki,Ignis,ignis
+suzuki,Liana,liana
+suzuki,Grand Vitara Xl7,grand-vitara-xl7
+suzuki,Sx4,sx4
+suzuki,Splash,splash
+suzuki,Kizashi,kizashi
+talbot,Samba,samba
+talbot,Tagora,tagora
+talbot,Solara,solara
+talbot,Horizon,horizon
+tata,Telcosport,telcosport
+tata,Telco,telco
+tata,Sumo,sumo
+tata,Safari,safari
+tata,Indica,indica
+tata,Indigo,indigo
+tata,Grand Safari,grand-safari
+tata,Tl Pick Up,tl-pick-up
+tata,Xenon Pick Up,xenon-pick-up
+tata,Vista,vista
+tata,Xenon,xenon
+tata,Aria,aria
+toyota,Carina E,carina-e
+toyota,4runner,4runner
+toyota,Camry,camry
+toyota,Rav4,rav4
+toyota,Celica,celica
+toyota,Supra,supra
+toyota,Paseo,paseo
+toyota,Land Cruiser 80,land-cruiser-80
+toyota,Land Cruiser 100,land-cruiser-100
+toyota,Land Cruiser,land-cruiser
+toyota,Land Cruiser 90,land-cruiser-90
+toyota,Corolla,corolla
+toyota,Auris,auris
+toyota,Avensis,avensis
+toyota,Picnic,picnic
+toyota,Yaris,yaris
+toyota,Yaris Verso,yaris-verso
+toyota,Mr2,mr2
+toyota,Previa,previa
+toyota,Prius,prius
+toyota,Avensis Verso,avensis-verso
+toyota,Corolla Verso,corolla-verso
+toyota,Corolla Sedan,corolla-sedan
+toyota,Aygo,aygo
+toyota,Hilux,hilux
+toyota,Dyna,dyna
+toyota,Land Cruiser 200,land-cruiser-200
+toyota,Verso,verso
+toyota,Iq,iq
+toyota,Urban Cruiser,urban-cruiser
+toyota,Gt86,gt86
+umm,100,100
+umm,121,121
+vaz,214,214
+vaz,110 Stawra,110-stawra
+vaz,111 Stawra,111-stawra
+vaz,215,215
+vaz,112 Stawra,112-stawra
+volkswagen,Passat,passat
+volkswagen,Golf,golf
+volkswagen,Vento,vento
+volkswagen,Polo,polo
+volkswagen,Corrado,corrado
+volkswagen,Sharan,sharan
+volkswagen,Lupo,lupo
+volkswagen,Bora,bora
+volkswagen,Jetta,jetta
+volkswagen,New Beetle,new-beetle
+volkswagen,Phaeton,phaeton
+volkswagen,Touareg,touareg
+volkswagen,Touran,touran
+volkswagen,Multivan,multivan
+volkswagen,Caddy,caddy
+volkswagen,Golf Plus,golf-plus
+volkswagen,Fox,fox
+volkswagen,Eos,eos
+volkswagen,Caravelle,caravelle
+volkswagen,Tiguan,tiguan
+volkswagen,Transporter,transporter
+volkswagen,Lt,lt
+volkswagen,Taro,taro
+volkswagen,Crafter,crafter
+volkswagen,California,california
+volkswagen,Santana,santana
+volkswagen,Scirocco,scirocco
+volkswagen,Passat Cc,passat-cc
+volkswagen,Amarok,amarok
+volkswagen,Beetle,beetle
+volkswagen,Up,up
+volkswagen,Cc,cc
+volvo,440,440
+volvo,850,850
+volvo,S70,s70
+volvo,V70,v70
+volvo,V70 Classic,v70-classic
+volvo,940,940
+volvo,480,480
+volvo,460,460
+volvo,960,960
+volvo,S90,s90
+volvo,V90,v90
+volvo,Classic,classic
+volvo,S40,s40
+volvo,V40,v40
+volvo,V50,v50
+volvo,V70 Xc,v70-xc
+volvo,Xc70,xc70
+volvo,C70,c70
+volvo,S80,s80
+volvo,S60,s60
+volvo,Xc90,xc90
+volvo,C30,c30
+volvo,780,780
+volvo,760,760
+volvo,740,740
+volvo,240,240
+volvo,360,360
+volvo,340,340
+volvo,Xc60,xc60
+volvo,V60,v60
+volvo,V40 Cross Country,v40-cross-country
+wartburg,353,353
+mini,Mini,mini
+mini,Countryman,countryman
+mini,Paceman,paceman
