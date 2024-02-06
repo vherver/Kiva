@@ -9,12 +9,14 @@ class ApplicationStatus:
         - REJECTION (str): Represents the rejection status of an application.
 
     Choices:
-        - CHOICES (list): A list of tuples containing status choices for applications,
-                         used for database storage and form display.
-          Each tuple consists of the status constant and its corresponding display label.
+        - CHOICES (list): A list of tuples containing status choices for
+        applications, used for database storage and form display.
+          Each tuple consists of the status constant and its corresponding
+          display label.
 
     Methods:
-        - for_display(choice): Static method to get the display label for a given status choice.
+        - for_display(choice): Static method to get the display label for a
+        given status choice.
 
     Usage:
         status = AppliationStatus.SUBMISSION
@@ -44,4 +46,4 @@ class ApplicationStatus:
         Returns:
             str: Display label corresponding to the provided status choice.
         """
-        return dict(AppliationStatus.CHOICES).get(choice)
+        return dict(ApplicationStatus.CHOICES).get(choice)
