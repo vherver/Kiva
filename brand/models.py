@@ -11,12 +11,14 @@ class Brand(TimeStampedMixin):
         - name: CharField, the name of the brand.
 
     Inherits:
-        - TimeStampedMixin: Provides 'created', 'updated', and 'deleted' timestamp fields.
+        - TimeStampedMixin: Provides 'created', 'updated',
+        and 'deleted' timestamp fields.
 
     Example:
         brand = Brand(name='Example Brand')
         brand.save()
-        print(brand.created)  # Output: The date and time when the brand was created.
+        print(brand.created)  # Output: The date and time when the brand
+        was created.
     """
 
     name = models.CharField(max_length=256)

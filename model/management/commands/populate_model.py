@@ -9,15 +9,18 @@ from model.models import SubBrand
 
 
 class Command(BaseCommand):
-    help = 'Command to load vehicle model. If a model already exists, it will not be created again.'
+    help = (
+        "Command to load vehicle model. If a model already exists,"
+        " it will not be created again."
+    )
 
     def handle(self, *args, **options):
-        file_path = settings.BASE_DIR / 'initial_data' / 'model.csv'
+        file_path = settings.BASE_DIR / "initial_data" / "model.csv"
 
-        expected_columns = ['brand','name', 'slug']
+        expected_columns = ["brand", "name", "slug"]
 
         try:
-            with open(file_path, newline='', encoding='utf-8') as csv_file:
+            with open(file_path, newline="", encoding="utf-8") as csv_file:
                 csv_reader = csv.DictReader(csv_file)
                 headers = csv_reader.fieldnames
 
@@ -34,7 +37,11 @@ class Command(BaseCommand):
                         )
 
         except FileNotFoundError:
-            self.stdout.write(self.style.ERROR('File not found'))
+            self.stdout.write(self.style.ERROR("File not found"))
 
         except ValidationError:
-            self.stdout.write(self.style.ERROR('Columns must be brand, name, slug in the CSV'))
+            self.stdout.write(
+                self.style.ERROR(
+                    "Columns must be brand, name, slug in the CSV"
+                )
+            )

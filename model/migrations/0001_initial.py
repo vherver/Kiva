@@ -25,9 +25,15 @@ class Migration(migrations.Migration):
                         verbose_name="ID",
                     ),
                 ),
-                ("created", models.DateTimeField(auto_now_add=True, null=True)),
+                (
+                    "created",
+                    models.DateTimeField(auto_now_add=True, null=True),
+                ),
                 ("updated", models.DateTimeField(auto_now=True, null=True)),
-                ("deleted", models.DateTimeField(blank=True, default=None, null=True)),
+                (
+                    "deleted",
+                    models.DateTimeField(blank=True, default=None, null=True),
+                ),
                 ("name", models.CharField(max_length=256)),
                 ("slug", models.CharField(max_length=256)),
                 (
